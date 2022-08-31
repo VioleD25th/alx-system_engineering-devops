@@ -26,3 +26,5 @@
 12-file\_type - Prints the file type for the file /tmp/iamafile
 
 13-symbolic\_link - points ls command to /bin/ls
+
+14-copy\_html - copy all html files to parent directory
