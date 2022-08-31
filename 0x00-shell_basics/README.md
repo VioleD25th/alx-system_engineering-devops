@@ -4,4 +4,6 @@
 
 1-listit - Displays the list of files in current directory
 
-2-bring\_me\_home - Takes uou to your home directory
+2-bring\_me\_home - Takes you to your home directory
+
+3-listfiles - List files in current directory in long format
