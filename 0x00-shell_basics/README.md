@@ -14,3 +14,5 @@
 6-firstdirectory - makes a directory named my\_first\_directory in /tmp
 
 7-movethatfile - Move betty to /tmp/my\_first\_directory
+
+8-firstdelete - deletes betty
