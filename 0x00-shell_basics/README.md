@@ -20,3 +20,5 @@
 9-firstdirdeletion - removes my\_first\_directory
 
 10-back - changes current directly to previous
+
+11-lists - list all files in long format in three (3) directories: the current working directly, parent directory and /boot directory
