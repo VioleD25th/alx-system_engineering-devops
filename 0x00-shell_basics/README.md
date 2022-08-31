@@ -18,3 +18,5 @@
 8-firstdelete - deletes betty
 
 9-firstdirdeletion - removes my\_first\_directory
+
+10-back - changes current directly to previous
