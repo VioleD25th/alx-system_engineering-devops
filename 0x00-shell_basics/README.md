@@ -16,3 +16,5 @@
 7-movethatfile - Move betty to /tmp/my\_first\_directory
 
 8-firstdelete - deletes betty
+
+9-firstdirdeletion - removes my\_first\_directory
