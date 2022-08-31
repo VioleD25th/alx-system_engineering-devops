@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -mXpa --group-directories-first

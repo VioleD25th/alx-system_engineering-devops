@@ -34,3 +34,5 @@
 101-clean\_emacs - Deletes all filenames ending with ~
 
 102-tree - Creates three directories in current directory: /welcome/ /welcome/to/  /welcome/to/school/
+
+103-commas - Shows list of files and directories in an organized manner with listed first and indicated with /, output is comma separated and sorted alphanumerically
