@@ -24,3 +24,5 @@
 11-lists - list all files in long format in three (3) directories: the current working directly, parent directory and /boot directory
 
 12-file\_type - Prints the file type for the file /tmp/iamafile
+
+13-symbolic\_link - points ls command to /bin/ls
