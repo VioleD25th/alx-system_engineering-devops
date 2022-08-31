@@ -8,4 +8,7 @@
 
 3-listfiles - List files in current directory in long format
 4-listmorefiles - List all files in directory including hidden files in long format
+
 5-listfilesdigitonly - list all files in directory including hidden files but with users in number format
+
+6-firstdirectory - makes a directory named My\_first\_directory in /tmp
