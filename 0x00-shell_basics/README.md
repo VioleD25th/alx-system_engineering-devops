@@ -11,4 +11,6 @@
 
 5-listfilesdigitonly - list all files in directory including hidden files but with users in number format
 
-6-firstdirectory - makes a directory named My\_first\_directory in /tmp
+6-firstdirectory - makes a directory named my\_first\_directory in /tmp
+
+7-movethatfile - Move betty to /tmp/my\_first\_directory
