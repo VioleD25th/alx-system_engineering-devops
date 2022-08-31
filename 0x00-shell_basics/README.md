@@ -7,3 +7,4 @@
 2-bring\_me\_home - Takes you to your home directory
 
 3-listfiles - List files in current directory in long format
+4-listmorefiles - List all files in directory includinf hidden files in long format
