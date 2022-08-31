@@ -32,3 +32,5 @@
 100-lets\_move - moves all filenames beginning with an uppercase letter to /tmp/u directory
 
 101-clean\_emacs - Deletes all filenames ending with ~
+
+102-tree - Creates three directories in current directory: /welcome/ /welcome/to/  /welcome/to/school/
