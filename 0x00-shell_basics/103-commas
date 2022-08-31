@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -mvpa --group-directories-first
+ls -mvXpa --group-directories-first
