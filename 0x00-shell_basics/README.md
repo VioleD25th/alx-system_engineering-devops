@@ -22,3 +22,5 @@
 10-back - changes current directly to previous
 
 11-lists - list all files in long format in three (3) directories: the current working directly, parent directory and /boot directory
+
+12-file\_type - Prints the file type for the file /tmp/iamafile
