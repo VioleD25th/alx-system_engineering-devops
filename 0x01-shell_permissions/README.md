@@ -11,4 +11,6 @@
 
 6-multiple_permissions - adds multiple permissions to different users
 
-7-everybody - adds execution permission to everybody
+7-everybody - adds execution permission to everybody for file hello
+
+8-James_Bond - Grants no permissions for user and group, all for others for file hello
