@@ -8,3 +8,5 @@
 4-empty - creates an empty file called ``hello``
 
 5-execute - adds execution permission to the file 5-execute
+
+6-multiple_permissions - adds multiple permissions to different users
