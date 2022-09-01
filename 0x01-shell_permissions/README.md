@@ -13,4 +13,6 @@
 
 7-everybody - adds execution permission to everybody for file hello
 
-8-James_Bond - Grants no permissions for user and group, all for others for file hello
+8-James_Bond - Grants no permissions for user and group, all for others for file hello (be cool like 007)
+
+9-John_Doe - Grants permissions -rwxr-x-wx to file hello
