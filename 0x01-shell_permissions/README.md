@@ -24,3 +24,5 @@
 12-directory_permissions - make a directory my_dir with permissions 755
 
 13-change_group - change group owner to school for file hello
+
+100-change_owner_and_group - change owner to vincent and group to staff for all files and directories in current working directory
