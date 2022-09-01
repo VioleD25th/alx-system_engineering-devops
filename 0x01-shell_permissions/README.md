@@ -22,3 +22,5 @@
 11-directories_permissions - Adds execution permission to current directory and subdirectories but leaves files unchanged
 
 12-directory_permissions - make a directory my_dir with permissions 755
+
+13-change_group - change group owner to school for file hello
