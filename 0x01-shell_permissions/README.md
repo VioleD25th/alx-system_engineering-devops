@@ -10,3 +10,5 @@
 5-execute - adds execution permission to the file 5-execute
 
 6-multiple_permissions - adds multiple permissions to different users
+
+7-everybody - adds execution permission to everybody
