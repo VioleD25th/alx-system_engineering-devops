@@ -28,3 +28,5 @@
 100-change_owner_and_group - change owner to vincent and group to staff for all files and directories in current working directory
 
 101-symbolic_link_permissions - change owner to vincent and group to staff of file _hello with symbolic link
+
+102-if_only - change owner of hello to betty only if it is guillaume
