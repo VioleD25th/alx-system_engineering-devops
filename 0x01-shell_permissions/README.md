@@ -6,3 +6,5 @@
 
 3-new_owner - change ownership of file hello to user `betty`
 4-empty - creates an empty file called ``hello``
+
+5-execute - adds execution permission to the file 5-execute
