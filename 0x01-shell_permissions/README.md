@@ -18,3 +18,5 @@
 9-John_Doe - Grants permissions -rwxr-x-wx to file hello
 
 10-mirror_permissions - mirrors the permissions of file hello into file olleh
+
+11-directories_permissions - Adds execution permission to current directory and subdirectories but leaves files unchanged
